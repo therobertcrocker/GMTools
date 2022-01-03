@@ -1,0 +1,78 @@
+{
+  "clan": {
+    "name": "Iri",
+    "matriarch": {
+      "name": "Iri",
+      "color": "Black/Bronze",
+      "consorts": [
+        {
+          "name": "Han",
+          "color": "Black"
+        }
+      ],
+      "daughters": [
+        {
+          "name": "Iri-Ko",
+          "color": "Black/Bronze"
+        }
+      ]
+    },
+    "choir": {
+      "name": "Iri",
+      "voice": {
+        "name": "Ko-Ra",
+        "color": "Black/Bronze",
+        "consorts": [
+          {
+            "name": "Ta-Loy",
+            "color": "Bronze"
+          }
+        ],
+        "daughters": [
+          {
+            "name": "Ko-Rai",
+            "color": "Black/Bronze",
+            "mate": {
+              "name": "Lo-Ra",
+              "color": "Black"
+            },
+            "daughters": [
+              {
+                "name": "Raisa",
+                "color": "Black/Bronze"
+              }
+            ]
+          },
+          {
+            "name": "Ko-Rae",
+            "color": "Black/Bronze"
+          }
+        ]
+      }
+    },
+    "sisters": [
+      {
+        "name": "Kiri",
+        "color": "Black/Bronze",
+        "mate": {
+          "name": "Kono",
+          "color": "Bronze"
+        },
+        "daughters": [
+          {
+            "name": "Kiri-Ra",
+            "color": "Black/Bronze"
+          }
+        ]
+      },
+      {
+        "name": "Miri",
+        "color": "Black/Bronze"
+      },
+      {
+        "name": "Hiri",
+        "color": "Black/Bronze"
+      }
+    ]
+  }
+}
